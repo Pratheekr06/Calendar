@@ -1,6 +1,5 @@
 # Steps to follow
 
-1. git clone https://github.com/himkumarjsr/calender-event.git
-2. npm i
-3. json-server --watch db.json
-4. npm start --port 3001
+1. git clone https://github.com/Pratheekr06/Calendar.git
+2. npm install
+3. npm start

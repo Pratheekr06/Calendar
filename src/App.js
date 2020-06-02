@@ -24,7 +24,7 @@ function App({ calendarStore }) {
         <Route
           path="/"
           exact
-          component={props => (
+          component={(props) => (
             <HomePage {...props} calendarStore={calendarStore} />
           )}
         />
